@@ -1,4 +1,7 @@
 # NLP
+![NLP-1](https://github.com/PrashantC-9895/NLP/assets/143035523/854a66db-cea8-47e7-acb4-2f017662f45b)
+
+
 NLP-text-preprocessing_sample
 
 
@@ -9,6 +12,8 @@ NLTK, short for Natural Language Toolkit, is a leading platform for building Pyt
 
 SpaCy:
 SpaCy is a fast and efficient natural language processing (NLP) library designed for production-level applications. It offers pre-trained models and state-of-the-art algorithms for various NLP tasks, including tokenization, part-of-speech tagging, named entity recognition, dependency parsing, and more. SpaCy is known for its speed, accuracy, and ease of use, making it ideal for processing large volumes of text data in real-time or near-real-time scenarios. With its focus on performance and scalability, SpaCy is widely adopted in industry settings for tasks such as text classification, information extraction, sentiment analysis, and more.
+
+![NLP](https://github.com/PrashantC-9895/NLP/assets/143035523/c200c4ce-df0a-4b70-9755-cf6c0ab6a246)
 
 Here , we used NLTK framework for text processing steps are below:
 
@@ -50,8 +55,6 @@ Text preprocessing plays a vital role in enhancing the performance of NLP models
 ![NLP](https://github.com/PrashantC-9895/NLP/assets/143035523/c42d2720-41d3-44cb-a956-a95d280d130d)
 
 ![what is NLP](https://github.com/PrashantC-9895/NLP/assets/143035523/aeff73dc-9014-4a26-b8cc-d7b983b8a561)
-
-![NLP](https://github.com/PrashantC-9895/NLP/assets/143035523/c200c4ce-df0a-4b70-9755-cf6c0ab6a246)
 
 ![AI](https://github.com/PrashantC-9895/NLP/assets/143035523/92c8e4a0-4e48-4e1e-8fc0-efe1c0f155eb)
 
