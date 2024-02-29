@@ -47,9 +47,12 @@ Ensure consistent representation of words or phrases by normalizing abbreviation
 Text preprocessing plays a vital role in enhancing the performance of NLP models. Clean and well-organized text data enables models to focus on relevant information, reduces dimensionality, and improves generalization on diverse datasets. Effective preprocessing is often tailored to the specific characteristics and goals of the NLP task at hand.
 
 
-
-
 ![NLP](https://github.com/PrashantC-9895/NLP/assets/143035523/c42d2720-41d3-44cb-a956-a95d280d130d)
 
+![what is NLP](https://github.com/PrashantC-9895/NLP/assets/143035523/aeff73dc-9014-4a26-b8cc-d7b983b8a561)
+
+![NLP](https://github.com/PrashantC-9895/NLP/assets/143035523/c200c4ce-df0a-4b70-9755-cf6c0ab6a246)
+
+![AI](https://github.com/PrashantC-9895/NLP/assets/143035523/92c8e4a0-4e48-4e1e-8fc0-efe1c0f155eb)
 
 
