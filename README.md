@@ -7,6 +7,8 @@ NLP-text-preprocessing_sample
 
 Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that focuses on the interaction between computers and human language. The goal of NLP is to enable computers to understand, interpret, and generate human-like text, facilitating meaningful communication between machines and humans. NLP involves a wide range of tasks, including language understanding, sentiment analysis, machine translation, text summarization, and more.
 
+![AI](https://github.com/PrashantC-9895/NLP/assets/143035523/92c8e4a0-4e48-4e1e-8fc0-efe1c0f155eb)
+
 NLTK (Natural Language Toolkit):
 NLTK, short for Natural Language Toolkit, is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces and libraries for tasks such as tokenization, stemming, lemmatization, part-of-speech tagging, parsing, and more. NLTK is widely used in education, research, and industry for natural language processing (NLP) tasks. With its extensive documentation, comprehensive set of tools, and active community, NLTK is a popular choice for beginners and experts alike.
 
@@ -56,6 +58,6 @@ Text preprocessing plays a vital role in enhancing the performance of NLP models
 
 ![what is NLP](https://github.com/PrashantC-9895/NLP/assets/143035523/aeff73dc-9014-4a26-b8cc-d7b983b8a561)
 
-![AI](https://github.com/PrashantC-9895/NLP/assets/143035523/92c8e4a0-4e48-4e1e-8fc0-efe1c0f155eb)
+
 
 
